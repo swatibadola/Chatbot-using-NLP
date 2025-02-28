@@ -25,4 +25,4 @@ This is a simple yet effective chatbot built using Natural Language Processing (
 4️⃣ Randomized responses are generated based on detected intent
 
 ## 📩 Connect with Me
-🔗 LinkedIn[https://www.linkedin.com/in/swati-badola-b28a2722a/] | 📂 GitHub[https://github.com/swatibadola] | Twitter[https://x.com/SwatiBadola3]
+🔗 [LinkedIn](https://www.linkedin.com/in/swati-badola-b28a2722a/) | 📂 [GitHub](https://github.com/swatibadola) | [Twitter](https://x.com/SwatiBadola3)
